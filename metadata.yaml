@@ -1,0 +1,33 @@
+_repo: Poemes-nouvelle-serie-Les-soirs-Les-debacles-Les-flambeaux-noirs_52123
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Verhaeren, Emile
+    aliases:
+    - Verhaeren, Émile
+    - Verhaeren, Emile
+    birthdate: 1855
+    deathdate: 1916
+    gutenberg_agent_id: '3287'
+    url: http://www.gutenberg.org/2009/agents/3287
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Emile_Verhaeren
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Verhaeren
+description: ''
+gutenberg_bookshelf:
+- FR Poésie
+- FR Littérature francophone
+gutenberg_issued: '2016-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52123'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Belgian poetry (French)'
+- !lcc 'PQ'
+- GITenberg
+title: 'Poèmes (nouvelle série): Les soirs, Les débacles, Les flambeaux noirs'
+url: http://www.gutenberg.org/ebooks/52123
