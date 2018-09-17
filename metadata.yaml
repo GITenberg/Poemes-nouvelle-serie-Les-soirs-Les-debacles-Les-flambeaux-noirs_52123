@@ -1,5 +1,8 @@
 _repo: Poemes-nouvelle-serie-Les-soirs-Les-debacles-Les-flambeaux-noirs_52123
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52123-h/images/cover.jpg
 creator:
   author:
     agent_name: Verhaeren, Emile
@@ -14,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Emile_Verhaeren
     - http://fr.wikipedia.org/wiki/%C3%89mile_Verhaeren
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52123#Poemes-nouvelle-serie-Les-soirs-Les-debacles-Les-flambeaux-noirs
 gutenberg_bookshelf:
 - FR Poésie
 - FR Littérature francophone
